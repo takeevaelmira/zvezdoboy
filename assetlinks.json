@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.zvezdoboy.game",
+      "sha256_cert_fingerprints": [
+        "92:3E:03:71:5B:03:18:07:DC:4D:43:F0:E8:D1:04:B1:4D:46:4F:54:35:03:64:E3:62:D1:F6:60:F5:79:E5:2B"
+      ]
+    }
+  }
+]
